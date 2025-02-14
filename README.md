@@ -25,9 +25,9 @@ Curioso sobre novas tecnologias e frameworks, sempre explorando novas possibilid
 
 ### 📊 Status do GitHub
 
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilomachuca&show_icons=true&theme=radical)
+![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamDaku&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilomachuca&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamDaku&layout=compact&theme=radical)
 
 ---
 
@@ -66,9 +66,9 @@ Always curious about new technologies and frameworks, constantly exploring new p
 
 ### 📊 GitHub Stats
 
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danilomachuca&show_icons=true&theme=radical)
+![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IamDaku&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilomachuca&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamDaku&layout=compact&theme=radical)
 
 ---
 
