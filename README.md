@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Danilo Machuca de Souza
+## 👋 Olá! Eu sou o Danilo
 
 🎓 Estudante de **Ciência da Computação** na UNIP <br>
 💻 Cursando **Desenvolvimento Frontend** na EBAC <br>
@@ -39,7 +39,7 @@ Sempre aberto para trocar ideias, colaborar em projetos ou apenas bater um papo 
 
 ---
 
-## 👋 Hello! I'm Danilo Machuca de Souza
+## 👋 Hello! I'm Danilo
 
 🎓 **Computer Science** student at UNIP <br>
 💻 Currently studying **Frontend Development** at EBAC <br>
