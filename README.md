@@ -15,7 +15,8 @@ Atualmente, estou aprendendo **Java, C, C++, C#** para expandir meu conhecimento
 ### 🚀 Tecnologias & Ferramentas
 
 🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less  
-🔹 **Backend & Outros:** Python  
+🔹 **Backend & Outros:** Python
+🔹 **Task Runners:** Gulp, Grunt 
 🔹 **Versionamento:** Git & GitHub  
 🔹 **Aprendendo:** Java, C, C++, C#  
 
@@ -56,7 +57,8 @@ Currently, I'm learning **Java, C, C++ and C#** to expand my programming knowled
 ### 🚀 Technologies & Tools
 
 🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less  
-🔹 **Backend & Others:** Python  
+🔹 **Backend & Others:** Python
+🔹 **Task Runners:** Gulp, Grunt  
 🔹 **Version Control:** Git & GitHub  
 🔹 **Learning:** Java, C, C++, C#  
 
