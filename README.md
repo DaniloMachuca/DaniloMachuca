@@ -6,7 +6,7 @@
 
 Apaixonado por tecnologia, sempre em busca de aprender algo novo e desenvolver soluções criativas. Gosto de desafios que me fazem sair da zona de conforto e me impulsionam a evoluir como desenvolvedor.
 
-Atualmente, estou aprendendo **Java, C e C#** para expandir meu conhecimento em programação.
+Atualmente, estou aprendendo **Java, C, C++, C#** para expandir meu conhecimento em programação.
 
 💼 Estou disposto a trabalhar em projetos que requerem meu conhecimento e não tenho problemas em trabalhar em equipe.
 
@@ -14,10 +14,10 @@ Atualmente, estou aprendendo **Java, C e C#** para expandir meu conhecimento em 
 
 ### 🚀 Tecnologias & Ferramentas
 
-🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript  
-🔹 **Backend & Outros:** Python, C++  
+🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less  
+🔹 **Backend & Outros:** Python  
 🔹 **Versionamento:** Git & GitHub  
-🔹 **Aprendendo:** Java, C, C#  
+🔹 **Aprendendo:** Java, C, C++, C#  
 
 Curioso sobre novas tecnologias e frameworks, sempre explorando novas possibilidades!
 
@@ -47,7 +47,7 @@ Sempre aberto para trocar ideias, colaborar em projetos ou apenas bater um papo 
 
 Passionate about technology, always eager to learn something new and develop creative solutions. I enjoy challenges that push me out of my comfort zone and drive me to evolve as a developer.
 
-Currently, I'm learning **Java, C, and C#** to expand my programming knowledge.
+Currently, I'm learning **Java, C, C++ and C#** to expand my programming knowledge.
 
 💼 I'm open to working on projects that require my knowledge and have no issues working in a team.
 
@@ -55,10 +55,10 @@ Currently, I'm learning **Java, C, and C#** to expand my programming knowledge.
 
 ### 🚀 Technologies & Tools
 
-🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript  
-🔹 **Backend & Others:** Python, C++  
+🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less  
+🔹 **Backend & Others:** Python  
 🔹 **Version Control:** Git & GitHub  
-🔹 **Learning:** Java, C, C#  
+🔹 **Learning:** Java, C, C++, C#  
 
 Always curious about new technologies and frameworks, constantly exploring new possibilities!
 
