@@ -15,7 +15,7 @@ Atualmente, estou aprendendo **Java, C, C++, C#** para expandir meu conhecimento
 ### 🚀 Tecnologias & Ferramentas
 
 🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less.                 
-🔹 **Task Runners:** Gulp, Grunt.            
+🔹 **Task Runners:** Gulp, Grunt, Parcel.            
 🔹 **Versionamento:** Git & GitHub.       
 🔹 **Aprendendo:** Java, C, C++, C#        
 
@@ -56,7 +56,7 @@ Currently, I'm learning **Java, C, C++ and C#** to expand my programming knowled
 ### 🚀 Technologies & Tools
 
 🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less.                     
-🔹 **Task Runners:** Gulp, Grunt.     
+🔹 **Task Runners:** Gulp, Grunt, Parcel.     
 🔹 **Version Control:** Git & GitHub.     
 🔹 **Learning:** Java, C, C++, C#       
 
