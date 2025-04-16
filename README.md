@@ -1,79 +1,69 @@
-## 👋 Olá! Eu sou o Danilo
+# 👋 Olá! Eu sou o Danilo
 
-🎓 Estudante de **Ciência da Computação** na UNIP <br>
-💻 Cursando **Desenvolvimento Frontend** na EBAC <br>
-🌎 Fluente em **português** e falo **inglês avançado**
+Estudante de Ciência da Computação na UNIP  
+Cursando Desenvolvimento Frontend na EBAC  
+Fluente em português e com inglês avançado
 
-Apaixonado por tecnologia, sempre em busca de aprender algo novo e desenvolver soluções criativas. Gosto de desafios que me fazem sair da zona de conforto e me impulsionam a evoluir como desenvolvedor.
+Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar interfaces modernas, funcionais e bem estruturadas. Estou sempre buscando aprender algo novo, explorando ferramentas, frameworks e conceitos avançados da área.
 
-Atualmente, estou aprendendo **Java, C, C++, C#** para expandir meu conhecimento em programação.
-
-💼 Estou disposto a trabalhar em projetos que requerem meu conhecimento e não tenho problemas em trabalhar em equipe.
+Atualmente, foco no desenvolvimento front-end com JavaScript e ferramentas modernas, além de integrar APIs e usar AJAX para criar aplicações dinâmicas. Também estudo, de forma complementar, linguagens como C, C++ e Python para expandir meu entendimento da programação como um todo.
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+### 🛠 Tecnologias & Ferramentas
 
-🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less.                 
-🔹 **Task Runners:** Gulp, Grunt, Parcel.            
-🔹 **Versionamento:** Git & GitHub.       
-🔹 **Aprendendo:** Java, C, C++, C#        
-
-Curioso sobre novas tecnologias e frameworks, sempre explorando novas possibilidades!
-
----
-
-### 📊 Status do GitHub
-
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloMachuca&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMachuca&layout=compact&theme=radical)
-
----
-
-### 📫 Contato
-
-✉️ E-mail: [danilo.machuca111@gmail.com](mailto:danilo.machuca111@gmail.com)
-
-Sempre aberto para trocar ideias, colaborar em projetos ou apenas bater um papo sobre tecnologia! 🚀
-
----
-
-## 👋 Hello! I'm Danilo
-
-🎓 **Computer Science** student at UNIP <br>
-💻 Currently studying **Frontend Development** at EBAC <br>
-🌎 Fluent in **Portuguese** and proficient in **English**
-
-Passionate about technology, always eager to learn something new and develop creative solutions. I enjoy challenges that push me out of my comfort zone and drive me to evolve as a developer.
-
-Currently, I'm learning **Java, C, C++ and C#** to expand my programming knowledge.
-
-💼 I'm open to working on projects that require my knowledge and have no issues working in a team.
-
----
-
-### 🚀 Technologies & Tools
-
-🔹 **Frontend:** HTML, CSS, Bootstrap, jQuery, JavaScript, Sass, Less.                     
-🔹 **Task Runners:** Gulp, Grunt, Parcel.     
-🔹 **Version Control:** Git & GitHub.     
-🔹 **Learning:** Java, C, C++, C#       
-
-Always curious about new technologies and frameworks, constantly exploring new possibilities!
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass  
+**Build & Deploy:** Gulp, Parcel, Vercel  
+**Extras:** AJAX, consumo de APIs REST  
+**Estudando:** C, C++, Python  
 
 ---
 
 ### 📊 GitHub Stats
 
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloMachuca&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMachuca&layout=compact&theme=radical)
+![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloMachuca&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMachuca&layout=compact&theme=dracula)
 
 ---
 
-### 📫 Contact
+### 📬 Contato
 
-✉️ Email: [danilo.machuca111@gmail.com](mailto:danilomachuca111@gmail.com)
+✉️ E-mail: danilo.machuca.dev@gmail.com
 
-Always open to exchanging ideas, collaborating on projects, or just chatting about technology! 🚀
+Sempre aberto para trocar ideias, colaborar em projetos ou bater um papo sobre tecnologia!
+
+---
+
+# 👋 Hi there! I'm Danilo
+
+🎓 Computer Science student at UNIP  
+💻 Front-End Development student at EBAC  
+🌐 Fluent in Portuguese and advanced in English
+
+I'm passionate about technology and web development. I enjoy building modern, functional, and well-structured user interfaces. I'm always exploring new tools, frameworks, and advanced concepts to improve my skills.
+
+Currently, I'm focused on front-end development using JavaScript and modern tools. I also work with APIs and AJAX to build dynamic applications. In addition, I occasionally study C, C++, and Python to deepen my understanding of programming.
+
+---
+
+### 🛠 Technologies & Tools
+
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass  
+**Build & Deploy:** Gulp, Parcel, Vercel  
+**Extras:** AJAX, REST API consumption  
+**Currently Studying:** C, C++, Python  
+
+---
+
+### 📊 GitHub Stats
+
+![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloMachuca&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMachuca&layout=compact&theme=dracula)
+
+---
+
+### 📬 Contact
+
+✉️ Email: danilo.machuca.dev@gmail.com
+
+Always open to collaborating on projects, learning new things, or just chatting about tech!
