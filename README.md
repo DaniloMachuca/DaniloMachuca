@@ -1,25 +1,25 @@
 # 👋 Olá! Eu sou o Danilo
 
-Estudante de Ciência da Computação na UNIP  
-Cursando Desenvolvimento Frontend na EBAC  
-Fluente em português e com inglês avançado
+🎓 Estudante de Ciência da Computação na UNIP  
+💻 Cursando Desenvolvimento Frontend na EBAC  
+🌐 Fluente em português e com inglês avançado
 
-Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar interfaces modernas, funcionais e bem estruturadas. Estou sempre buscando aprender algo novo, explorando ferramentas, frameworks e conceitos avançados da área.
+Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar interfaces modernas, funcionais e bem estruturadas. Estou sempre explorando novas ferramentas, frameworks e conceitos avançados para aprimorar minhas habilidades.
 
-Atualmente, foco no desenvolvimento front-end com JavaScript e ferramentas modernas, além de integrar APIs e usar AJAX para criar aplicações dinâmicas. Também estudo, de forma complementar, linguagens como C, C++ e Python para expandir meu entendimento da programação como um todo.
+Atualmente, meu foco está no desenvolvimento front-end com JavaScript e ferramentas modernas. Também trabalho com integração de APIs e uso de AJAX para criar aplicações mais dinâmicas. Além disso, estudo ocasionalmente C, C++ e Python para ampliar meu entendimento em programação.
 
 ---
 
 ### 🛠 Tecnologias & Ferramentas
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass  
-**Build & Deploy:** Gulp, Parcel, Vercel  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS  
+**Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
 **Extras:** AJAX, consumo de APIs REST  
 **Estudando:** C, C++, Python  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 ![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloMachuca&show_icons=true&theme=dracula)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMachuca&layout=compact&theme=dracula)
@@ -48,8 +48,8 @@ Currently, I'm focused on front-end development using JavaScript and modern tool
 
 ### 🛠 Technologies & Tools
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass  
-**Build & Deploy:** Gulp, Parcel, Vercel  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS  
+**Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
 **Extras:** AJAX, REST API consumption  
 **Currently Studying:** C, C++, Python  
 
