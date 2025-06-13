@@ -12,7 +12,8 @@ Atualmente, meu foco está no desenvolvimento front-end com JavaScript e ferrame
 
 ### 🛠 Tecnologias & Ferramentas
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS
+**Frameworks:** Vue, React
 **Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
 **Extras:** AJAX, consumo de APIs REST  
 **Estudando:** C, C++, Python  
@@ -48,7 +49,8 @@ Currently, I'm focused on front-end development using JavaScript and modern tool
 
 ### 🛠 Technologies & Tools
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS  
+**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS
+**Frameworks:** Vue, React
 **Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
 **Extras:** AJAX, REST API consumption  
 **Currently Studying:** C, C++, Python  
