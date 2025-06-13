@@ -6,7 +6,7 @@
 
 Sou apaixonado por tecnologia e desenvolvimento web. Gosto de criar interfaces modernas, funcionais e bem estruturadas. Estou sempre explorando novas ferramentas, frameworks e conceitos avançados para aprimorar minhas habilidades.
 
-Atualmente, meu foco está no desenvolvimento front-end com JavaScript e ferramentas modernas. Também trabalho com integração de APIs e uso de AJAX para criar aplicações mais dinâmicas. Além disso, estudo ocasionalmente C, C++ e Python para ampliar meu entendimento em programação.
+Atualmente, meu foco está no desenvolvimento front-end com JavaScript e ferramentas modernas. Também trabalho com integração de APIs e uso de AJAX para criar aplicações mais dinâmicas.
 
 ---
 
@@ -16,7 +16,6 @@ Atualmente, meu foco está no desenvolvimento front-end com JavaScript e ferrame
 **Frameworks:** Vue, React  
 **Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
 **Extras:** AJAX, consumo de APIs REST  
-**Estudando:** C, C++, Python  
 
 ---
 
@@ -43,7 +42,7 @@ Sempre aberto para trocar ideias, colaborar em projetos ou bater um papo sobre t
 
 I'm passionate about technology and web development. I enjoy building modern, functional, and well-structured user interfaces. I'm always exploring new tools, frameworks, and advanced concepts to improve my skills.
 
-Currently, I'm focused on front-end development using JavaScript and modern tools. I also work with APIs and AJAX to build dynamic applications. In addition, I occasionally study C, C++, and Python to deepen my understanding of programming.
+Currently, I'm focused on front-end development using JavaScript and modern tools. I also work with APIs and AJAX to build dynamic applications.
 
 ---
 
@@ -53,7 +52,6 @@ Currently, I'm focused on front-end development using JavaScript and modern tool
 **Frameworks:** Vue, React  
 **Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
 **Extras:** AJAX, REST API consumption  
-**Currently Studying:** C, C++, Python  
 
 ---
 
