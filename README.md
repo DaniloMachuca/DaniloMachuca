@@ -1,21 +1,23 @@
-# 👋 Olá! Eu sou o Danilo
+# 👋 Olá! Eu sou o Danilo Machuca
 
-🎓 Estudante de Ciência da Computação na UNIP  
-💻 Formado em Desenvolvimento Frontend na EBAC  
-🌐 Fluente em português e com inglês avançado
+🎓 **Estudante de Ciência da Computação** (3º Semestre)  
+💻 **Desenvolvedor Full-Stack** | Estagiário na InCicle  
+🌐 **Português:** Nativo | **Inglês:** Avançado  
 
-Sou apaixonado por tecnologia e desenvolvimento. Gosto de criar interfaces modernas, funcionais e bem estruturadas. Estou sempre explorando novas ferramentas, frameworks e conceitos avançados para aprimorar minhas habilidades.
+Sou um desenvolvedor focado em criar soluções escaláveis e interfaces modernas. Atualmente, trabalho como estagiário de tecnologia, onde aplico conceitos de arquitetura de software e boas práticas de desenvolvimento no ecossistema JavaScript/TypeScript.
 
-Atualmente, meu foco está no desenvolvimento front-end com frameworks como angular e react. Também trabalho com integração de APIs e uso de AJAX para criar aplicações mais dinâmicas.
+### 🚀 Projetos em Destaque
+* **Telemetry Simulator:** Sistema de tempo real desenvolvido com Electron, React e Node.js.
+* **eFood:** Aplicação web focada em escalabilidade no Front-end, utilizando React, TypeScript e testes com Cypress.
 
 ---
 
 ### 🛠 Tecnologias & Ferramentas
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS  
-**Frameworks:** Vue, React, Angular  
-**Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
-**Extras:** AJAX, consumo de APIs REST  
+**Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap  
+**Backend & Desktop:** Node.js, Electron, Python  
+**Build & Ferramentas:** Vite, Gulp, Cypress, Git, GitHub Actions  
+**Cloud & Deploy:** Vercel, Firebase  
 
 ---
 
@@ -28,42 +30,35 @@ Atualmente, meu foco está no desenvolvimento front-end com frameworks como angu
 
 ### 📬 Contato
 
-✉️ E-mail: danilo.machuca.dev@gmail.com
-
-Sempre aberto para trocar ideias, colaborar em projetos ou bater um papo sobre tecnologia!
+✉️ **E-mail:** [danilo.machuca.dev@gmail.com](mailto:danilo.machuca.dev@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/danilomachuca](https://linkedin.com/in/danilomachuca)
 
 ---
 
-# 👋 Hi there! I'm Danilo
+# 👋 Hi there! I'm Danilo Machuca
 
-🎓 Computer Science student at UNIP  
-💻 Front-End Development student at EBAC  
-🌐 Fluent in Portuguese and advanced in English
+🎓 **Computer Science Student** (3rd Semester)  
+💻 **Full-Stack Developer** | Intern at InCicle  
+🌐 **Portuguese:** Native | **English:** Advanced  
 
-I'm passionate about technology and development. I enjoy building modern, functional, and well-structured user interfaces. I'm always exploring new tools, frameworks, and advanced concepts to improve my skills.
+I am a developer focused on building scalable solutions and modern interfaces. Currently, I work as a Tech Intern, applying software architecture concepts and development best practices within the JavaScript/TypeScript ecosystem.
 
-Currently, I'm focused on front-end development using frameworks like React and Angular. I also work with APIs and AJAX to build dynamic applications.
+### 🚀 Featured Projects
+* **Telemetry Simulator:** Real-time system built with Electron, React, and Node.js.
+* **eFood:** Web application focused on Front-end scalability, using React, TypeScript, and Cypress testing.
 
 ---
 
 ### 🛠 Technologies & Tools
 
-**Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Sass, LESS  
-**Frameworks:** Vue, React  
-**Build & Deploy:** Gulp, Parcel, Vercel, Grunt  
-**Extras:** AJAX, REST API consumption  
-
----
-
-### 📊 GitHub Stats
-
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloMachuca&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloMachuca&layout=compact&theme=dracula)
+**Frontend:** React, TypeScript, JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap  
+**Backend & Desktop:** Node.js, Electron, Python  
+**Build & Tooling:** Vite, Gulp, Cypress, Git, GitHub Actions  
+**Cloud & Deploy:** Vercel, Firebase  
 
 ---
 
 ### 📬 Contact
 
-✉️ Email: danilo.machuca.dev@gmail.com
-
-Always open to collaborating on projects, learning new things, or just chatting about tech!
+✉️ **Email:** [danilo.machuca.dev@gmail.com](mailto:danilo.machuca.dev@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/danilomachuca](https://linkedin.com/in/danilomachuca)
