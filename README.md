@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Danilo
 
 🎓 Estudante de Ciência da Computação na UNIP  
-💻 Cursando Desenvolvimento Frontend na EBAC  
+💻 Formado em Desenvolvimento Frontend na EBAC  
 🌐 Fluente em português e com inglês avançado
 
 Sou apaixonado por tecnologia e desenvolvimento. Gosto de criar interfaces modernas, funcionais e bem estruturadas. Estou sempre explorando novas ferramentas, frameworks e conceitos avançados para aprimorar minhas habilidades.
