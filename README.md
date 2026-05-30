@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Danilo Machuca
 
-🎓 **Estudante de Ciência da Computação** (3º Semestre)  
-💻 **Desenvolvedor Full-Stack** | Estagiário na InCicle  
+🎓 **Estudante de Ciência da Computação** (4º Semestre)  
+💻 **Desenvolvedor Full-Stack**
 🌐 **Português:** Nativo | **Inglês:** Avançado  
 
 Sou um desenvolvedor focado em criar soluções escaláveis e interfaces modernas. Atualmente, trabalho como estagiário de tecnologia, onde aplico conceitos de arquitetura de software e boas práticas de desenvolvimento no ecossistema JavaScript/TypeScript.
@@ -37,8 +37,8 @@ Sou um desenvolvedor focado em criar soluções escaláveis e interfaces moderna
 
 # 👋 Hi there! I'm Danilo Machuca
 
-🎓 **Computer Science Student** (3rd Semester)  
-💻 **Full-Stack Developer** | Intern at InCicle  
+🎓 **Computer Science Student** (4rd Semester)  
+💻 **Full-Stack Developer**
 🌐 **Portuguese:** Native | **English:** Advanced  
 
 I am a developer focused on building scalable solutions and modern interfaces. Currently, I work as a Tech Intern, applying software architecture concepts and development best practices within the JavaScript/TypeScript ecosystem.
